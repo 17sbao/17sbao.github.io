@@ -3,7 +3,7 @@ ul.topnav {
     margin: 0;
     padding: 0;
     overflow: hidden;
-    background-color:#FF8C00;
+    background-color:#00008B;
 }
 ul.topnav li {float: left;}
 ul.topnav li a:hover {background-color: #FF4500;}
@@ -13,13 +13,13 @@ ul.topnav li a {
     display: inline-block;
     color: white;
     text-align: center;
-    padding: 25px 30px;
+    padding: 15px 30px;
     text-decoration: none;
     transition: 0.3s;
     font-size: 17px;
 }
 body {
-    background-color: #add8e6;
+    background-color: #FF8C00;
      color:black;
     text-align:center;
     font-family:Arial, fantasy;
@@ -32,4 +32,10 @@ body {
 #title {
     color:white;
     font-size:75px;
+}
+.fixed-nav-bar {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width:100%;
 }
