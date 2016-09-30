@@ -1,0 +1,35 @@
+ul.topnav {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color:#FF8C00;
+}
+ul.topnav li {float: left;}
+ul.topnav li a:hover {background-color: #FF4500;}
+u1.topnav li a:active {background-color:red;}
+ul.topnav li.icon {display: none;}
+ul.topnav li a {
+    display: inline-block;
+    color: white;
+    text-align: center;
+    padding: 25px 30px;
+    text-decoration: none;
+    transition: 0.3s;
+    font-size: 17px;
+}
+body {
+    background-color: #add8e6;
+     color:black;
+    text-align:center;
+    font-family:Arial, fantasy;
+    font-size:25px;
+}
+.comp{
+    color:#00008B;
+}
+    tr:hover {background-color: #f5f5f5}
+#title {
+    color:white;
+    font-size:75px;
+}
