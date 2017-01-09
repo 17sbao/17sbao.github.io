@@ -40,8 +40,14 @@ body {
   width:100%;
 }
 .story{
-    font-size:10px;
+    font-size:15px;
     font-family: Arial, fantasy;
     text-align:center;
     color:black;
+}
+.game{
+    font-size: 15pt;
+    font-family: Arial, fantasy;
+    text-align:center;
+    color: black;
 }
